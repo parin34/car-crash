@@ -1,0 +1,2 @@
+# car-crash
+calculates formation
